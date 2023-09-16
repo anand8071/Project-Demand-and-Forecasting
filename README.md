@@ -24,5 +24,5 @@ Acceptance criteria:
 The project work would be accepted and deemed completed upon meeting the following criteria:
 o	All possible models with different algorithms should be evaluated
 o	90-95% accuracy alongside a least error should be attained
-o	The models should be deployment ready and should be easily understood by non-technical/business teams
+o	The models should be deployment ready and should be easily understood by non-technical/business teams.
 
